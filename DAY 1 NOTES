@@ -1,0 +1,5 @@
+In day 1 we have learnt that what happens ,when a user types some url in the browser.
+   1)Browser send request to DNS Server which maps the domain name to IP Address and returns the IP Address .
+   2)IP Address is received by CDN Edge and it sends the updated version of data to the browser
+   3)We also came to know ,what is Java Backend people's work.
+   4)And also about request and response.
